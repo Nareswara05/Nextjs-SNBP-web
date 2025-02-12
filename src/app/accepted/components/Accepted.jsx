@@ -24,9 +24,9 @@ const Accepted = () => {
                             <span className='text-3xl md:text-4xl text-white font-bold'>
                                 NARESWARA MAULANA ALETHA ALHAQ
                             </span>
-                            <div className='text-xl md:text-2xl font-light'>
-                                <span>INFORMATIKA (S1)</span>
-                                <span>UNIVERSITAS DIPONEGORO</span>
+                            <div className=' flex flex-col font-medium'>
+                                <p className='text-xl md:text-2xl'>INFORMATIKA (S1)</p>
+                                <p className='text-lg md:text-xl'>UNIVERSITAS DIPONEGORO</p>
                             </div>
                         </div>
                         <Image
